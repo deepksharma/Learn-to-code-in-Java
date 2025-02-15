@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class L2_pattern1 {
+public class pattern1 {
 
 	public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
