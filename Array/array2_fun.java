@@ -1,4 +1,4 @@
-package Array;
+// Removed package declaration to match the expected package structure
 
 import java.util.Scanner;
 
