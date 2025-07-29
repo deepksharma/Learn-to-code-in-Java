@@ -1,8 +1,9 @@
-package striver;
+//package striver;
+
 
 import java.util.HashMap;
 
-public class AppearedOnce {
+class AppearedOnce {
 
     // =============================
     // ✅ Brute Force Approach - O(n^2)
